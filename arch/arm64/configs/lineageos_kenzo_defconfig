@@ -1,4 +1,4 @@
-CONFIG_LOCALVERSION="-lineageos kernel moded for Ubuntu by mathus"
+CONFIG_LOCALVERSION="-Los kernel moded for Ubuntu by mathus"
 CONFIG_SYSVIPC=y
 CONFIG_AUDIT=y
 CONFIG_NO_HZ=y
